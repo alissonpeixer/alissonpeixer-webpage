@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-space{
+  font-family: 'Space Grotesk', sans-serif;
+  
+}
+
+body {
+  background-color: theme("colors.grey");
+  background-image: url(./public/blur.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: top;
+}
