@@ -7,10 +7,24 @@
   
 }
 
+
 body {
   background-color: theme("colors.grey");
   background-image: url(./public/blur.png);
   background-repeat: no-repeat;
   background-position: top left;
   background-size: top;
+}
+
+
+
+
+.liner-gradiante {
+  
+
+  background: -webkit-linear-gradient(#3bffe8, #00d9c0);
+  /* -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+
+ 
 }

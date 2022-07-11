@@ -37,7 +37,7 @@ export function Banner(){
 
           <div className="absolute top-[80vh] lg:top-[90vh] w-full">
             <div className="flex flex-row justify-center">
-                <a href="#aboutme"><ArrowCircleDownIcon className="w-14  text-blueMarine opacity-70"/></a>
+                <a href="#abountme"><ArrowCircleDownIcon className="w-14  text-blueMarine opacity-70"/></a>
             </div>
           </div>
       </section>

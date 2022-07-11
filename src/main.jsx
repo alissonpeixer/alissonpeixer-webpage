@@ -4,7 +4,8 @@ import { BrowserRouter } from "react-router-dom";
 import "./Global.css";
 
 import {Home} from "./containers/Home";
-
+import {AbountMe} from "./containers/AbountMe";
+import {Footer} from "./containers/Footer";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root")
@@ -15,7 +16,8 @@ root.render(
     <BrowserRouter>
 
       <Home />
-
+      <AbountMe/>
+      <Footer/>
     </BrowserRouter>
   </React.StrictMode>
   

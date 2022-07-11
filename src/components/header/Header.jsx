@@ -28,7 +28,7 @@ export function Header() {
                   <li className="rounded-lg border-white  p-4 active:border opacity-0 lg:opacity-100">
                     <a href="#" className="flex hover:text-blueMarine">
                       {/* <AtSymbolIcon className="w-4 lg:w-7"/> */}
-                      <span className="pl-3 lg:text-lg ">Contact</span>
+                      {/* <span className="pl-3 lg:text-lg ">Contact</span> */}
                     </a>
                   </li>
                   

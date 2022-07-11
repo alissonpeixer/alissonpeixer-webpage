@@ -6,7 +6,8 @@ const brandColors =  {
   platinum: '#E7E9EA',
   silver: '#71767B',
   onix: '#333639',
-  richBlack: '#15202B'
+  richBlack: '#15202B',
+  azulForte: '#00a8e8'
 }
 
 
